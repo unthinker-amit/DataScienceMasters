@@ -1,7 +1,5 @@
 # DataScienceMasters
-It will be used for store my learning from the PW data science masters course
+It will be used for store my learning from the PW data science masters course\
 
-
-## clone the repo
-
-    
+## Repo link 
+> https://github.com/amitkrak83/DataScienceMasters.git
